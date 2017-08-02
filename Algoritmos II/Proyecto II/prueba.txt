@@ -1,0 +1,407 @@
+4
+['doc', 'asdrubal', 'comprobante']
+['doc', 'ad_', 'certificado']
+['pista', '4', '))']
+['doc', 'Catherine', 'certificado']
+['pag', 'Catherine', 'diploma']
+['pag', 'el3en4a', 'comprobante']
+['doc', 'Jesus', 'certificado']
+['pag', 'Erick', 'certificado']
+['doc', 'Abelardo', 'fondonegro']
+['pag', 'Jonathan', 'fondonegro']
+['doc', 'roman', 'comprobante']
+['doc', 'Edwin', 'comprobante']
+['doc', 'fab1ola', 'certificado']
+['doc', 'david', 'comprobante']
+['doc', 'Juan', 'comprobante']
+['pista', '1', '((asd)']
+['doc', 'Carolina', 'certificado']
+['doc', 'abelardo', 'diploma']
+['doc', 'José', 'comprobante']
+['doc', 'Jesus', 'certificado']
+['doc', 'Gaspar', 'comprobante']
+['pag', 'Roman', 'comprobante']
+['doc', 'miguel', 'comprobante']
+['doc', 'Carlos', 'certificado']
+['pista', '3', 'ula']
+['doc', 'Victoria', 'comprobante']
+['doc', 'Pedro', 'certificado']
+['pag', 'Edwin', 'comprobante']
+['pag', 'victor', 'certificado']
+['doc', 'michelle', 'comprobante']
+['doc', 'Catherine', 'diploma']
+['doc', 'Roman', 'comprobante']
+['pista', '2', 'r(']
+['doc', 'Elena', 'comprobante']
+['doc', 'Erick', 'certificado']
+['doc', 'Jonathan', 'fondonegro']
+['doc', 'Elena', 'diploma']
+['doc', 'Jonathan', 'fondonegro']
+['doc', 'V1ictor', 'certificado']
+['doc', 'Adial', 'certificado']
+['pag', 'fab1ola', 'certificado']
+
+
+insertando en documentos
+
+ nombre a insertar:  Asdrubal
+8  clave 1
+16  clave 2
+insertado Asdrubal  en posicion:  8
+insertando en documentos
+
+ nombre a insertar:  Catherine
+4  clave 1
+33  clave 2
+insertado Catherine  en posicion:  4
+insertando en pagos
+
+ nombre a insertar:  Catherine
+4  clave 1
+33  clave 2
+insertado Catherine  en posicion:  4
+insertando en pagos
+
+ nombre a insertar:  Elena
+2  clave 1
+23  clave 2
+insertado Elena  en posicion:  2
+insertando en documentos
+
+ nombre a insertar:  Jesus
+0  clave 1
+18  clave 2
+insertado Jesus  en posicion:  0
+insertando en pagos
+
+ nombre a insertar:  Erick
+17  clave 1
+32  clave 2
+insertado Erick  en posicion:  17
+insertando en documentos
+
+ nombre a insertar:  Abelardo
+14  clave 1
+38  clave 2
+insertado Abelardo  en posicion:  14
+insertando en pagos
+
+ nombre a insertar:  Jonathan
+7  clave 1
+21  clave 2
+insertado Jonathan  en posicion:  7
+insertando en documentos
+
+ nombre a insertar:  Roman
+12  clave 1
+5  clave 2
+insertado Roman  en posicion:  12
+insertando en documentos
+
+ nombre a insertar:  Edwin
+31  clave 1
+41  clave 2
+insertado Edwin  en posicion:  31
+insertando en documentos
+
+ nombre a insertar:  Fabola
+0  clave 1
+35  clave 2
+insertado Jesus  en posicion:  18
+insertando en documentos
+
+ nombre a insertar:  David
+35  clave 1
+26  clave 2
+insertado David  en posicion:  35
+insertando en documentos
+
+ nombre a insertar:  Juan
+19  clave 1
+20  clave 2
+insertado Juan  en posicion:  19
+insertando en documentos
+
+ nombre a insertar:  Carolina
+10  clave 1
+11  clave 2
+insertado Carolina  en posicion:  10
+insertando en documentos
+
+Abelardo  esta persona no está en la lista
+insertando en documentos
+
+ nombre a insertar:  José
+22  clave 1
+29  clave 2
+insertado José  en posicion:  22
+insertando en pagos
+
+ nombre a insertar:  Roman
+12  clave 1
+5  clave 2
+insertado Roman  en posicion:  12
+insertando en documentos
+
+ nombre a insertar:  Miguel
+33  clave 1
+23  clave 2
+insertado Miguel  en posicion:  33
+insertando en documentos
+
+ nombre a insertar:  Carlos
+16  clave 1
+24  clave 2
+insertado Carlos  en posicion:  16
+insertando en documentos
+
+ nombre a insertar:  Pedro
+22  clave 1
+2  clave 2
+insertado José  en posicion:  29
+insertando en pagos
+
+ nombre a insertar:  Edwin
+31  clave 1
+41  clave 2
+insertado Edwin  en posicion:  31
+insertando en pagos
+
+ nombre a insertar:  Victor
+27  clave 1
+1  clave 2
+insertado Victor  en posicion:  27
+insertando en documentos
+
+ nombre a insertar:  Michelle
+28  clave 1
+5  clave 2
+insertado Michelle  en posicion:  28
+insertando en documentos
+
+Roman  esta persona no está en la lista
+insertando en documentos
+
+ nombre a insertar:  Elena
+2  clave 1
+23  clave 2
+insertado Elena  en posicion:  2
+insertando en documentos
+
+ nombre a insertar:  Erick
+17  clave 1
+32  clave 2
+insertado Erick  en posicion:  17
+insertando en documentos
+
+ nombre a insertar:  Jonathan
+7  clave 1
+21  clave 2
+insertado Jonathan  en posicion:  7
+insertando en documentos
+
+Elena  esta persona no está en la lista
+insertando en documentos
+
+Jonathan  esta persona no está en la lista
+insertando en documentos
+
+ nombre a insertar:  Victor
+27  clave 1
+1  clave 2
+insertado Victor  en posicion:  27
+insertando en documentos
+
+ nombre a insertar:  Adial
+5  clave 1
+13  clave 2
+insertado Adial  en posicion:  5
+insertando en pagos
+
+ nombre a insertar:  Fabola
+0  clave 1
+35  clave 2
+insertado Fabola  en posicion:  0
+((asd)r(ula))
+Fabola 
+ 0
+35
+
+
+Elena 
+ 2
+23
+
+
+Catherine 
+ 4
+33
+
+
+Adial 
+ 5
+13
+
+
+Jonathan 
+ 7
+21
+
+
+Asdrubal 
+ 8
+16
+
+
+Carolina 
+ 10
+11
+
+
+Roman 
+ 12
+5
+
+
+Abelardo 
+ 14
+38
+
+
+Carlos 
+ 16
+24
+
+
+Erick 
+ 17
+32
+
+
+Jesus 
+ 0
+18
+
+
+Juan 
+ 19
+20
+
+
+Pedro 
+ 22
+2
+
+
+Victor 
+ 27
+1
+
+
+Michelle 
+ 28
+5
+
+
+José 
+ 22
+29
+
+
+Edwin 
+ 31
+41
+
+
+Miguel 
+ 33
+23
+
+
+David 
+ 35
+26
+
+
+112466406  a
+12566123  b
+
+
+Fabola,None,Elena,None,Catherine,Adial,None,Jonathan,Asdrubal,None,Carolina,None,Roman,None,Abelardo,None,Carlos,Erick,Jesus,Juan,None,None,Pedro,None,None,None,None,Victor,Michelle,José,None,Edwin,None,Miguel,None,David,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,
+
+['certificado'] Fabola 0 35
+['comprobante', 'diploma', 'diploma'] Elena 2 23
+['certificado', 'diploma', 'diploma'] Catherine 4 33
+['certificado'] Adial 5 13
+['fondonegro', 'fondonegro', 'fondonegro'] Jonathan 7 21
+['comprobante'] Asdrubal 8 16
+['certificado'] Carolina 10 11
+['comprobante', 'comprobante', 'comprobante'] Roman 12 5
+['fondonegro', 'diploma', 'diploma'] Abelardo 14 38
+['certificado'] Carlos 16 24
+['certificado'] Erick 17 32
+['certificado', 'certificado', 'certificado'] Jesus 0 18
+['comprobante'] Juan 19 20
+['certificado'] Pedro 22 2
+['certificado'] Victor 27 1
+['comprobante'] Michelle 28 5
+['comprobante'] José 22 29
+['comprobante'] Edwin 31 41
+['comprobante'] Miguel 33 23
+['comprobante'] David 35 26
+
+
+['certificado'] Fabola 0 35
+['comprobante'] Elena 2 23
+['diploma'] Catherine 4 33
+['fondonegro'] Jonathan 7 21
+['comprobante'] Roman 12 5
+['certificado'] Erick 17 32
+['certificado'] Victor 27 1
+['comprobante'] Edwin 31 41
+Fabola 
+ 0
+35
+
+
+Elena 
+ 2
+23
+
+
+Catherine 
+ 4
+33
+
+
+Jonathan 
+ 7
+21
+
+
+Roman 
+ 12
+5
+
+
+Erick 
+ 17
+32
+
+
+Victor 
+ 27
+1
+
+
+Edwin 
+ 31
+41
+
+
+112466406  a
+12566123  b
+
+
+Fabola,None,Elena,None,Catherine,None,None,Jonathan,None,None,None,None,Roman,None,None,None,None,Erick,None,None,None,None,None,None,None,None,None,Victor,None,None,None,Edwin,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,
+

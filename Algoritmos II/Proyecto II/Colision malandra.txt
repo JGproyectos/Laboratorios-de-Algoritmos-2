@@ -1,0 +1,24 @@
+[None, None, None, None, None, None, None, None]  # Tabla Vacía
+María # Nombre a insertar
+ 0  # Posicion principal
+6  # Posicion Secundaria
+
+
+Jose # LOOOOOOOL
+ 1 
+1  
+
+
+María iguana 
+ 1
+3
+
+
+Gaspar 
+ 1
+6
+
+
+María,Jose,None,María iguana,None,None,Gaspar,None,  # Tabla final
+
+

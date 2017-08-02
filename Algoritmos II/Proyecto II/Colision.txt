@@ -1,0 +1,23 @@
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+Jose 
+ 1
+1
+
+
+María 
+ 11
+2
+
+
+Gaspar 
+ 11
+6
+
+
+María iguana 
+ 11
+3
+
+
+None,Jose,María,None,None,None,Gaspar,None,None,None,None,María iguana,None,None,None,None,None,None,None,None,
+

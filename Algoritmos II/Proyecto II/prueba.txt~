@@ -1,0 +1,320 @@
+3
+['pista', '1', '(j']
+['doc', 'Jorge', 'comprobante']
+['doc', 'Willian', 'comprobante']
+['doc', 'Jawil', 'comprobante']
+['doc', 'Denilson', 'comprobante']
+['doc', 'María', 'comprobante']
+['doc', 'Aida', 'comprobante']
+['doc', 'Rafael', 'comprobante']
+['doc', 'Andrés', 'comprobante']
+['doc', 'Fabio', 'comprobante']
+['doc', 'Luis', 'comprobante']
+['doc', 'María', 'comprobante']
+['doc', 'Victor', 'comprobante']
+['doc', 'Nathalia', 'comprobante']
+['doc', 'José', 'comprobante']
+['pag', 'Jorge', 'comprobante']
+['pag', 'Willian', 'comprobante']
+['pag', 'Jawil', 'comprobante']
+['pag', 'Denilson', 'comprobante']
+['pag', 'María', 'comprobante']
+['pag', 'Aida', 'comprobante']
+['pag', 'Rafael', 'comprobante']
+['pag', 'Andrés', 'comprobante']
+['pag', 'Fabio', 'comprobante']
+['pag', 'Luis', 'comprobante']
+['pag', 'María', 'comprobante']
+['pag', 'Victor', 'comprobante']
+['pag', 'Nathalia', 'comprobante']
+['pag', 'José', 'comprobante']
+['pista', '2', 'r']
+['pista', '3', 'w)']
+
+
+insertando en documentos
+
+ nombre a insertar:  Jorge
+8  clave 1
+4  clave 2
+insertado Jorge  en posicion:  8
+insertando en documentos
+
+ nombre a insertar:  Willian
+18  clave 1
+6  clave 2
+insertado Willian  en posicion:  18
+insertando en documentos
+
+ nombre a insertar:  Jawil
+8  clave 1
+4  clave 2
+insertado Jorge  en posicion:  4
+insertando en documentos
+
+ nombre a insertar:  Denilson
+24  clave 1
+7  clave 2
+insertado Denilson  en posicion:  24
+insertando en documentos
+
+ nombre a insertar:  María
+2  clave 1
+28  clave 2
+insertado María  en posicion:  2
+insertando en documentos
+
+ nombre a insertar:  Aida
+26  clave 1
+27  clave 2
+insertado Aida  en posicion:  26
+insertando en documentos
+
+ nombre a insertar:  Rafael
+25  clave 1
+1  clave 2
+insertado Rafael  en posicion:  25
+insertando en documentos
+
+ nombre a insertar:  Fabio
+20  clave 1
+0  clave 2
+insertado Fabio  en posicion:  20
+insertando en documentos
+
+ nombre a insertar:  Luis
+24  clave 1
+7  clave 2
+insertado Denilson  en posicion:  7
+insertando en documentos
+
+María  esta persona no está en la lista
+insertando en documentos
+
+ nombre a insertar:  Victor
+2  clave 1
+9  clave 2
+insertado María  en posicion:  28
+insertando en documentos
+
+ nombre a insertar:  José
+16  clave 1
+5  clave 2
+insertado José  en posicion:  16
+insertando en pagos
+
+ nombre a insertar:  Jorge
+8  clave 1
+4  clave 2
+insertado Jorge  en posicion:  8
+insertando en pagos
+
+ nombre a insertar:  Willian
+18  clave 1
+6  clave 2
+insertado Willian  en posicion:  18
+insertando en pagos
+
+ nombre a insertar:  Jawil
+8  clave 1
+4  clave 2
+insertado Jorge  en posicion:  4
+insertando en pagos
+
+ nombre a insertar:  Denilson
+24  clave 1
+7  clave 2
+insertado Denilson  en posicion:  24
+insertando en pagos
+
+ nombre a insertar:  María
+2  clave 1
+28  clave 2
+insertado María  en posicion:  2
+insertando en pagos
+
+ nombre a insertar:  Aida
+26  clave 1
+27  clave 2
+insertado Aida  en posicion:  26
+insertando en pagos
+
+ nombre a insertar:  Rafael
+25  clave 1
+1  clave 2
+insertado Rafael  en posicion:  25
+insertando en pagos
+
+ nombre a insertar:  Fabio
+20  clave 1
+0  clave 2
+insertado Fabio  en posicion:  20
+insertando en pagos
+
+ nombre a insertar:  Luis
+24  clave 1
+7  clave 2
+insertado Denilson  en posicion:  7
+insertando en pagos
+
+María  esta persona no está en la lista
+insertando en pagos
+
+ nombre a insertar:  Victor
+2  clave 1
+9  clave 2
+insertado María  en posicion:  28
+insertando en pagos
+
+ nombre a insertar:  José
+16  clave 1
+5  clave 2
+insertado José  en posicion:  16
+(jrw)
+32
+Victor 
+ 2
+9
+
+
+Jorge 
+ 8
+4
+
+
+Denilson 
+ 24
+7
+
+
+Jawil 
+ 8
+4
+
+
+José 
+ 16
+5
+
+
+Willian 
+ 18
+6
+
+
+Fabio 
+ 20
+0
+
+
+Luis 
+ 24
+7
+
+
+Rafael 
+ 25
+1
+
+
+Aida 
+ 26
+27
+
+
+María 
+ 2
+28
+
+
+112466406  a
+12566123  b
+
+
+None,None,Victor,None,Jorge,None,None,Denilson,Jawil,None,None,None,None,None,None,None,José,None,Willian,None,Fabio,None,None,None,Luis,Rafael,Aida,None,María,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,
+
+['comprobante'] Victor 2 9
+['comprobante'] Jorge 8 4
+['comprobante'] Denilson 24 7
+['comprobante'] Jawil 8 4
+['comprobante'] José 16 5
+['comprobante'] Willian 18 6
+['comprobante'] Fabio 20 0
+['comprobante'] Luis 24 7
+['comprobante'] Rafael 25 1
+['comprobante'] Aida 26 27
+['comprobante', 'comprobante', 'comprobante'] María 2 28
+
+
+['comprobante'] Victor 2 9
+['comprobante'] Jorge 8 4
+['comprobante'] Denilson 24 7
+['comprobante'] Jawil 8 4
+['comprobante'] José 16 5
+['comprobante'] Willian 18 6
+['comprobante'] Fabio 20 0
+['comprobante'] Luis 24 7
+['comprobante'] Rafael 25 1
+['comprobante'] Aida 26 27
+['comprobante', 'comprobante', 'comprobante'] María 2 28
+Victor 
+ 2
+9
+
+
+Jorge 
+ 8
+4
+
+
+Denilson 
+ 24
+7
+
+
+Jawil 
+ 8
+4
+
+
+José 
+ 16
+5
+
+
+Willian 
+ 18
+6
+
+
+Fabio 
+ 20
+0
+
+
+Luis 
+ 24
+7
+
+
+Rafael 
+ 25
+1
+
+
+Aida 
+ 26
+27
+
+
+María 
+ 2
+28
+
+
+112466406  a
+12566123  b
+
+
+None,None,Victor,None,Jorge,None,None,Denilson,Jawil,None,None,None,None,None,None,None,José,None,Willian,None,Fabio,None,None,None,Luis,Rafael,Aida,None,María,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,
+
